@@ -1,4 +1,4 @@
-# Ankit Kumar
+# Margalin Tutor
 
 ### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing
 
@@ -117,7 +117,7 @@ This application is using the OpenCV for performing computer vision algorithms i
    LICENCE
 -----
 
- Copyright 2022 Ankit kumar
+ Copyright 2022 Margalin Tutor
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
